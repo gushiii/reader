@@ -1,4 +1,4 @@
-package com.gushi;
+package com.gushi.reader;
 
 /**
  * Hello world!
